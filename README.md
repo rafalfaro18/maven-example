@@ -1,2 +1,2 @@
-# maven-example
+# JSP + Servlets
 Maven Example
