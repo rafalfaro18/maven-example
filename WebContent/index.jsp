@@ -6,6 +6,13 @@
 </head>
 <body>
   <%
+  
+  	for ( int i = 0; i < 10; i++ ) {
+  		%>
+  		<p>Hi <%= i %></p>
+  		<%
+  	}
+  	
     double num = Math.random();
     if (num > 0.95) {
   %>
